@@ -1,9 +1,10 @@
 ﻿Order_Id,Order_Status,Logs
-AiOps001,Success,"Success{Dummy Logs, INFO_LEVEL, Source/Host}"
-AiOps002,Failed,"Failed{Dummy Logs, INFO_LEVEL, Source/Host}"
-AiOps003,Success,"Success{Dummy Logs, INFO_LEVEL, Source/Host}"
-AiOps004,Success,"Success{Dummy Logs, INFO_LEVEL, Source/Host}"
-AiOps005,Failed,"Failed{Dummy Logs, INFO_LEVEL, Source/Host}"
-AiOps006,Failed,"Failed{Dummy Logs, INFO_LEVEL, Source/Host}"
-AiOps007,Failed,"Failed{Dummy Logs, INFO_LEVEL, Source/Host}"
+AiOps001,Success,"Success{Dummy Logs, LOG_LEVEL, Source/Host}"
+AiOps002,Failed,"Failed{Dummy Logs, LOG_LEVEL, Source/Host}"
+AiOps003,Success,"Success{Dummy Logs, LOG_LEVEL, Source/Host}"
+AiOps004,Success,"Success{Dummy Logs, LOG_LEVEL, Source/Host}"
+AiOps005,Failed,"Failed{Dummy Logs, LOG_LEVEL, Source/Host}"
+AiOps006,Failed,"Failed{Dummy Logs, LOG_LEVEL, Source/Host}"
+AiOps007,Failed,"Failed{Dummy Logs, LOG_LEVEL, Source/Host}"
+
 
