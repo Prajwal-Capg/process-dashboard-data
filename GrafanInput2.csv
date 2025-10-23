@@ -5,3 +5,5 @@ AiOps003,Success,"Success{Dummy Logs, INFO_LEVEL, Source/Host}"
 AiOps004,Success,"Success{Dummy Logs, INFO_LEVEL, Source/Host}"
 AiOps005,Failed,"Failed{Dummy Logs, INFO_LEVEL, Source/Host}"
 AiOps006,Failed,"Failed{Dummy Logs, INFO_LEVEL, Source/Host}"
+AiOps007,Failed,"Failed{Dummy Logs, INFO_LEVEL, Source/Host}"
+
